@@ -1,0 +1,15 @@
+{
+    "env": {
+        "browser": true,
+        "es2022": true,
+        "jest": true
+    },
+    "extends": "airbnb-base",
+    "rules": {
+        "no-console": 1
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "sourceType": "module"
+    }
+}
